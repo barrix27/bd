@@ -18,5 +18,8 @@ ALTER TABLE `login`
 
 ALTER TABLE `login`
   MODIFY `id` int(255) NOT NULL AUTO_INCREMENT;
+INSERT INTO "login" ("usuario", "password", "id) VALUES
+("user1", "pass1234", "2342512");
+("user2", "pass5678", "5234642");
 COMMIT;
 
