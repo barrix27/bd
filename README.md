@@ -9,3 +9,5 @@
 - Usuario = VARCHAR
 - Password = VARCHAR
 - A todos les dimos 255 caracteres
+<img width="202" height="106" alt="image" src="https://github.com/user-attachments/assets/319bd194-267b-483f-b69c-fdcc062daec5" />
+
